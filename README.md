@@ -29,6 +29,7 @@ D 1:
 
 
  Mc 16:1-6
+ 
 1 E, passado o sábado, Maria Madalena, e Maria, mãe de Tiago, e Salomé, compraram aromas para irem ungi-lo. 
 2 E, no primeiro dia da semana, foram ao sepulcro, de manhã cedo, ao nascer do sol. 
 3 E diziam umas às outras: Quem nos revolverá a pedra da porta do sepulcro? 
@@ -38,6 +39,7 @@ D 1:
 
 
  Sl 118: 1, 14-15
+ 
 1 Louvai ao SENHOR, porque ele é bom, porque a sua benignidade dura para sempre. 
 
 14 O SENHOR é a minha força e o meu cântico; e se fez a minha salvação. 
