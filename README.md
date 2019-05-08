@@ -18,10 +18,13 @@ Exemplos das possibilidades de entrada são:
 O código retorna um arquivo de texto com as passagens separadas.
 
 <h3>Exemplo:</h3>
+
 **Entrada:**
+
 lec <- "D 1: Mc 16:1-6; Sl 118: 1, 14-15"
 
 **Saída:**
+
 D 1:
 
 
